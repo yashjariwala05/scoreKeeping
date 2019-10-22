@@ -12,4 +12,7 @@
     <string name="score_value">85</string>
     <string name="score2_label">score_2</string>
     <string name="score_2_value">94</string>
+    <string name="radiobutton">1 pt</string>
+    <string name="radiobutton1">2 pt</string>
+    <string name="radiobutton2">3 pt</string>
 </resources>
